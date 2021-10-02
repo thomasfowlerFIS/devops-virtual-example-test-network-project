@@ -1,8 +1,8 @@
-# **Phase 4 Project Guidelines**
+# **VETNet Project Guidelines**
 
 ## **Learning Goals**
 
-- Build a full-stack project with a React frontend and a Rails backend
+* Build a full-stack project with a React frontend and a Rails backend
 
 --------------------------------------------
 
@@ -11,9 +11,9 @@
 You've made it! You're ready to build a full-stack application with a _powerful_
 backend framework! The goals of this project are to:
 
-- put together all the skills you've learned throughout the program
-- prepare you for building a capstone project in Phase 5
-- build a quality project to include in your portfolio
+* put together all the skills you've learned throughout the program
+* prepare you for building a capstone project in Phase 5
+* build a quality project to include in your portfolio
 
 The instructions below will walk you through the process of ideating and
 planning your app: deciding on your models and relationships, planning how the
@@ -26,11 +26,11 @@ planning steps before you start doing any coding.
 
 For this project, you must:
 
-- Use a Rails API backend with a React frontend.
-- Have at least two resources (two DB tables) on the backend; your application
+* Use a Rails API backend with a React frontend.
+* Have at least two resources (two DB tables) on the backend; your application
   must have full CRUD actions for at least one resource.
-- Have at least two different client-side routes using React Router.
-- Implement authentication/authorization. At a minimum, a user should be able to
+* Have at least two different client-side routes using React Router.
+* Implement authentication/authorization. At a minimum, a user should be able to
   log into the site and stay logged in via user ID in the session hash. Password
   protection is optional.
 
@@ -41,7 +41,7 @@ For this project, you must:
 Once you've got a solid plan in place for your app and you're ready to start
 coding, it's recommended that you use this project template:
 
-- [https://github.com/learn-co-curriculum/project-template-react-rails-api][project template]
+* [https://github.com/learn-co-curriculum/project-template-react-rails-api][project template]
 
 The project template is set up the same way as all of the labs from this phase.
 It has also been configured to enable you to deploy the app to Heroku using a
@@ -53,7 +53,7 @@ started.
 Alternately, if you'd like to set everything up from scratch, you can use this
 project setup guide:
 
-- [https://github.com/learn-co-curriculum/react-rails-project-setup-guide][project setup]
+* [https://github.com/learn-co-curriculum/react-rails-project-setup-guide][project setup]
 
 --------------------------------------------
 
@@ -77,16 +77,16 @@ you've met your MVP goals.
 
 For example:
 
-- MVP: As a user, I can:
-  - Log into the site
-  - View a list of all available dog houses in my area and their reviews
-  - Create a review for one specific dog house
-  - Modify or delete a review that I left
-  - Create a new dog house listing
-- Stretch: As a user, I can:
-  - View dog houses on a map
-  - Search dog houses based on their distance from my location
-  - Filter dog houses based on their average rating
+* MVP: As a user, I can:
+  * Log into the site
+  * View a list of all available dog houses in my area and their reviews
+  * Create a review for one specific dog house
+  * Modify or delete a review that I left
+  * Create a new dog house listing
+* Stretch: As a user, I can:
+  * View dog houses on a map
+  * Search dog houses based on their distance from my location
+  * Filter dog houses based on their average rating
 
 --------------------------------------------
 
@@ -99,9 +99,9 @@ Look at the list of your user stories, and pick out the different nouns/objects
 that you need to represent these user stories. These objects inform what models
 you need. For example, from the list above, we have:
 
-- User
-- Dog House
-- Review
+* User
+* Dog House
+* Review
 
 You can also get a sense of the relationships between the models and use that as
 the basis of your **Entity Relationship Diagram** (ERD). For example, we can
@@ -136,9 +136,9 @@ should capture all of your user stories.
 
 Here are some tools for wireframing (pen and paper is also a fine choice!):
 
-- [Excalidraw - basic hand-drawn wireframes](https://excalidraw.com/)
-- [Figma - professional design tool](https://www.figma.com/)
-- [Balsamiq - professional wireframe tool](https://balsamiq.com/)
+* [Excalidraw - basic hand-drawn wireframes](https://excalidraw.com/)
+* [Figma - professional design tool](https://www.figma.com/)
+* [Balsamiq - professional wireframe tool](https://balsamiq.com/)
 
 Use your wireframe to plan out what components you'll need and design your
 component hierarchy, following the ideas from [Thinking in React][].
@@ -149,9 +149,9 @@ component hierarchy, following the ideas from [Thinking in React][].
 
 Once you have your plan in place, and have a sense of your:
 
-- User stories
-- Models (including relationships and attributes)
-- Wireframes
+* User stories
+* Models (including relationships and attributes)
+* Wireframes
 
 It's time to start building! As you're building, work on each feature in
 [vertical slices](https://agileforall.com/vertical-slices-and-scale/) rather
@@ -183,8 +183,8 @@ instead build **each feature** (each **vertical slice**) in its entirety before
 moving on to the next feature, you'll minimize rewriting, and end up with
 working features without waste.
 
-- Add feature by feature, not model by model or layer by layer.
-- Test each feature, add styles, and create seed data as you go (not all at once
+* Add feature by feature, not model by model or layer by layer.
+* Test each feature, add styles, and create seed data as you go (not all at once
   at the end)
 
 Also, remember to prioritize your MVP features. It can be tempting to try and
@@ -206,11 +206,11 @@ Follow the instructions in the template to deploy your app!
 
 ### **Resources**
 
-- [Project Template: React/Rails API][project template]
-- [ERD Visualizations: dbdiagram.io][dbdiagram.io]
-- [Excalidraw - basic hand-drawn wireframes](https://excalidraw.com/)
-- [Figma - professional design tool](https://www.figma.com/)
-- [Balsamiq - professional wireframe tool](https://balsamiq.com/)
+* [Project Template: React/Rails API][project template]
+* [ERD Visualizations: dbdiagram.io][dbdiagram.io]
+* [Excalidraw - basic hand-drawn wireframes](https://excalidraw.com/)
+* [Figma - professional design tool](https://www.figma.com/)
+* [Balsamiq - professional wireframe tool](https://balsamiq.com/)
 
 [mvp]: https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp
 [dbdiagram.io]: https://dbdiagram.io/
