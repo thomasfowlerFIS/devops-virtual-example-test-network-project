@@ -2,23 +2,29 @@
 
 ## **Learning Goals**
 
-* Build a full-stack project with a React frontend and a Rails backend
+* Build a virtual network using multiple virtual machines that
+communicate with one another.
 
 --------------------------------------------
 
 ### **Introduction**
 
-You've made it! You're ready to build a full-stack application with a _powerful_
-backend framework! The goals of this project are to:
+You will build a virtual network using multiple virtual machines
+where each node on the network can communicate with one another.
 
-* put together all the skills you've learned throughout the program
-* prepare you for building a capstone project in Phase 5
-* build a quality project to include in your portfolio
+* Utilize the concepts in the previous lessons in virtualization to
+configure a virtual network.
+* Investigate various methods to provide network communication
+between the nodes on the virtual network.
 
-The instructions below will walk you through the process of ideating and
-planning your app: deciding on your models and relationships, planning how the
-information will be laid out on the page, etc. You should work through all the
-planning steps before you start doing any coding.
+The instructions below will guide you through the process of planning
+the virtual network. Take into consideration the requirements outlined
+below and use the minimum amount of software and configuration
+necessary to satisfy the project requirements.
+
+It is expected that every dependency needed to implement a given
+solution is explained in detail as to why it is needed and how
+it is used.
 
 --------------------------------------------
 
@@ -26,7 +32,7 @@ planning steps before you start doing any coding.
 
 For this project, you must:
 
-* Use a Rails API backend with a React frontend.
+<!-- * Use a Rails API backend with a React frontend.
 * Have at least two resources (two DB tables) on the backend; your application
   must have full CRUD actions for at least one resource.
 * Have at least two different client-side routes using React Router.
@@ -217,4 +223,4 @@ Follow the instructions in the template to deploy your app!
 [thinking in react]: https://reactjs.org/docs/thinking-in-react.html
 [awesome readmes]: https://github.com/matiassingers/awesome-readme
 [project template]: https://github.com/learn-co-curriculum/project-template-react-rails-api
-[project setup]: https://github.com/learn-co-curriculum/react-rails-project-setup-guide
+[project setup]: https://github.com/learn-co-curriculum/react-rails-project-setup-guide -->
