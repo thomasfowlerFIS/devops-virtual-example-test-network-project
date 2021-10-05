@@ -57,7 +57,7 @@ network.
 
 See the figure below:
 
-<img src="https://raw.githubusercontent.com/thomasfowlerFIS/devops-virtual-example-test-network-project/master/assets/VETNet_Diagram.png" width="600" /> 
+<img src="https://raw.githubusercontent.com/thomasfowlerFIS/devops-virtual-example-test-network-project/master/assets/VETNet_Diagram.png" width="800" /> 
 
 --------------------------------------------
 
