@@ -26,10 +26,10 @@ the virtual network. Take into consideration the requirements outlined
 below and use the minimum amount of software and configuration
 necessary to satisfy the project requirements.
 
-> **_Note_**: It is expected that every dependency needed to implement the
+> **_Note_**: **It is expected that every dependency needed to implement the
 > solution is explained in detail in a document as to its necessity
 > and how it is used. When submitting a solution, it is expected this
-> accompanying document is included in the submission.
+> accompanying document is included in the submission.**
 
 --------------------------------------------
 
